@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TCC APP</string>
+    <string name="one">One</string>
+
+    <string-array name="sexo">
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Binário</item>
+        <item>Outro</item>
+    </string-array>
+
+
+</resources>
